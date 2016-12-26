@@ -95,9 +95,34 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body{
+  text-align: center;
 
+}
+.selection{
+  text-align: center;
+}
+.banner{
+  overflow: hidden;
+  float: none
+}
 
+.banner img{
+  width: 100%;
+  height: 446px;
+  margin: -55px -216px -112px -140px
+}
+.articles table{
+  width: 900px;
+  text-align: justify;
+  margin: 0 auto
 
+}
+
+.video{
+  text-align: center;;
+  margin: 0 auto
+}
 
 
 
